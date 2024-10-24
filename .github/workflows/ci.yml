@@ -6,7 +6,7 @@ on:
       - feature/new-functionality
   pull_request:
     branches:
-      - feature/new-functionality
+      - main
 
 jobs:
   build:
