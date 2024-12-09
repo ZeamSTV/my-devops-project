@@ -4,3 +4,5 @@ def test_hello():
     assert hello() == 'Hello, My Team!'
 def helloTeacher():
     assert helloTeacher == 'Hello, Teacher'
+def helloABC():
+    assert helloABC == 'Hello, Teacher'
